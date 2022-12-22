@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teodor Cirstoiu</h1>
-<h3 align="center">A passionate developer from Canada who is interested in Cybersecurity, Machine Learning, Data Engineering, and Backend Development</h3>
+<h3 align="center">A passionate developer from Canada who is interested in Cybersecurity, Machine Learning, Data Engineering, and Fullstack Development</h3>
 
 - 🔭 I’m currently working on [Creator Showdown](https://github.com/C-Teo/Creator-Showdown-Plugins)
 
