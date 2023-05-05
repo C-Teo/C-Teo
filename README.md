@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Creator Showdown](https://github.com/C-Teo/Creator-Showdown-Plugins)
 
-- 🌱 I’m currently learning **SQL and Django linked with SQLite**
+- 🌱 I’m currently learning **Ruby on Rail**
 
 - 🤝 I’m looking to collaborate on **anything that interests me!**
 
