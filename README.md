@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teodor Cirstoiu</h1>
 <h3 align="center">A passionate developer from Canada who is interested in Cybersecurity, Machine Learning, Data Engineering, and Fullstack Development</h3>
 
-- 🔭 I’m currently working on [Creator Showdown](https://github.com/C-Teo/Creator-Showdown-Plugins)
+- 🔭 I’m currently working at PMI
 
-- 🌱 I’m currently learning **Ruby on Rail**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m looking to collaborate on **anything that interests me!**
 
