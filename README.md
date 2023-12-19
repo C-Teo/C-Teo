@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my University courses!
 
-- 🌱 I’m currently learning **PROLOG**
+- 🌱 I’m currently learning **Advanced Algorithms on LeetCode and at University**
 
 - 🤝 I’m looking to collaborate on **anything that interests me!**
 
