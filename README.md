@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Teodor Cirstoiu</h1>
+<h1 align="center">Hi 🦆, I'm Teodor Cirstoiu</h1>
 <h3 align="center">A passionate Fullstack Developer from Canada</h3>
 
 <p align="center">
