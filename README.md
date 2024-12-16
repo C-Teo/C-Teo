@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Fullstack Developer from Canada</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/Stackoverflow"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/teodor-cirstoiu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </p>
 
 - 🌱 I’m currently learning about **Compilers and Distributed Systems!**
@@ -12,7 +11,7 @@
   - Natural Language processing model in **Python**
   - A portfolio and blog website
 - 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo)
-- 💛 I'm also super active on **Leetcode** and **Stackoverflow**!
+- 💛 I'm also super active on **Leetcode**!
 
 ## 💻 Languages
 
