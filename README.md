@@ -21,21 +21,21 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Imperative** languages are those that describe computation in terms of statements that change a program’s state. These languages focus on how a task is to be done, using commands and statements to manage program state and control flow (i.e., using loops, conditionals, and assignments)
+**Imperative** languages are those that describe computation in terms of statements that change a program’s state. These languages focus on how a task is to be done.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
-**Object Oriented Programming (OOP)** languages are designed around the concept of objects, which are instances of classes. These languages focus on organizing code into objects that combine data and the methods (functions) that operate on that data.
+**Object Oriented Programming (OOP)** languages are designed around the concept of objects, which are instances of classes. 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
 
-**Functional** programming emphasizes the evaluation of mathematical functions and avoids changing state and mutable data. Functional programming languages encourage immutable data structures and first-class functions, making them very different from imperative languages.
+**Functional** programming emphasizes the evaluation of functions and avoids changing state and mutable data. 
 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) 
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) 
@@ -48,7 +48,7 @@
 
 
 ## 📦 Infra
-These are tools used to manage, deploy, and scale infrastructure. They help automate and simplify tasks like provisioning servers, managing network resources, and ensuring reliability and scalability.
+Manage, deploy, and scale infrastructure for provisioning servers, managing network resources, and ensuring reliability and scalability.
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -64,7 +64,7 @@ These are tools used to manage, deploy, and scale infrastructure. They help auto
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ## 📚 Frameworks & Libraries
-Frameworks provide a structured foundation for building applications, offering pre-built components, patterns, and conventions that simplify development. Libraries are collections of reusable functions and modules that can be used to perform specific tasks without building them from scratch.
+Collections of reusable functions and modules that can be used to perform specific tasks without building them from scratch.
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 
@@ -79,7 +79,7 @@ Frameworks provide a structured foundation for building applications, offering p
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 ## 🔨 Tools
-General-purpose utilities that help with various aspects of the software development process, including version control, testing, debugging, and containerization. 
+General-purpose utilities that help the software development process such as version control, testing, debugging, and containerization. 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
@@ -88,7 +88,7 @@ General-purpose utilities that help with various aspects of the software develop
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Note:** _I've messed around with more infrastructure tools, frameworks and libraries, and software development tools but I don't want to make the summary longer than it already is_ 😅
+**Note:** _I've messed around with more but I don't want to make the summary longer than it already is_ 😅
 
 ---
 
