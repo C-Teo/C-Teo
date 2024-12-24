@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🦆, I'm Teodor Cirstoiu</h1>
-<h3 align="center">A passionate Fullstack Developer from Canada</h3>
+<h3 align="center">A passionate Backend Developer from Canada</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/teodor-cirstoiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teodor-cirstoiu" height="30" width="40" /></a>
