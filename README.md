@@ -12,7 +12,7 @@
   - Interpreter written in **Rust** ®️ & Compiler written in **C++** + **LLVM** ©️
   - Natural Language processing model in **Python** 🐍
   - Studies in Traditional Machine Learning (**Scikit**) 🤖 and Deep Learning (**PyTorch**) 🔥
-  - A portfolio and blog website 💬
+  - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more!
 - 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo)
 - 💛 I'm also super active on **Leetcode**!
 
