@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning about **Compilers and Distributed Systems!**
 - 🔭 I’m currently working on a...
-  - Compiler written in **Rust** 🧱
+  - Interpreter written in **Rust** ®️ & Compiler written in **C++** + **LLVM** ©️
   - Natural Language processing model in **Python** 🐍
-  - Studies in Traditional Machine Learning (Scikit) 🤖 and Deep Learning (PyTorch) 🔥
+  - Studies in Traditional Machine Learning (**Scikit**) 🤖 and Deep Learning (**PyTorch**) 🔥
   - A portfolio and blog website 💬
 - 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo)
 - 💛 I'm also super active on **Leetcode**!
