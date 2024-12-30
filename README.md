@@ -92,9 +92,3 @@ General-purpose utilities that help the software development process such as ver
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **Note:** _I've messed around with more but I don't want to make the summary longer than it already is_ 😅
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=C-Teo&icon=10&color=13"></a>
-</p>
