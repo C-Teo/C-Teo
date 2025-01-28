@@ -14,5 +14,6 @@
   - Studies in Traditional Machine Learning (**Scikit**) 🤖 and Deep Learning (**PyTorch**) 🔥
   - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more!
   - Designing a distributed system for an online game server 📦
+  - Making a Discord Bot to automate reminders for an event scheduler ⏰
 - 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo)
 - 💛 I'm also super active on **Leetcode**!
