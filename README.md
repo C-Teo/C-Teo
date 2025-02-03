@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning about **Compilers and Distributed Systems!**
 - 🔭 I’m currently working on a...
-  - Interpreter written in **Rust** ®️ & Compiler written in **C++** + **LLVM** ©️
+  - Interpreter written in **Rust** ®️ & Compiler written in **C++** + **LLVM** ©️ (Fenrir)
   - Natural Language processing model in **Python** 🐍
   - Studies in Traditional Machine Learning (**Scikit**) 🤖 and Deep Learning (**PyTorch**) 🔥
-  - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more!
-  - Designing a distributed system for an online game server 📦
-  - Making a Discord Bot to automate reminders for an event scheduler ⏰
+  - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more! (Eurystheus)
+  - Designing a distributed system for an online game server 📦 (Crusaders)
+  - Making a Discord Bot to automate reminders for an event scheduler ⏰ (Excalibur)
 - 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo)
 - 💛 I'm also super active on **Leetcode**!
