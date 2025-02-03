@@ -15,5 +15,6 @@
   - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more! (Eurystheus)
   - Designing a distributed system for an online game server 📦 (Crusaders)
   - Making a Discord Bot to automate reminders for an event scheduler ⏰ (Excalibur)
+  - A lightweight art portfolio website with **React** and **JavaScript** 🎨 (Minerva)
 - 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo)
 - 💛 I'm also super active on **Leetcode**!
