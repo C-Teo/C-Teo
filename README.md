@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning about **Compilers and Distributed Systems!**
 - 🔭 I’m currently working on a...
-  - Interpreter written in **Rust** ®️ & Compiler written in **C++** + **LLVM** ©️ (Fenrir)
+  - Interpreter written in **Rust** ®️ (Fenrir)
   - Natural Language processing model in **Python** 🐍 (Mercury)
   - Studies in Traditional Machine Learning (**Scikit**) 🤖 and Deep Learning (**PyTorch**) 🔥
   - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more! (Eurystheus)
