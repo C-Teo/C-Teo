@@ -14,7 +14,7 @@
   - Studies in Traditional Machine Learning (**Scikit**) 🤖 and Deep Learning (**PyTorch**) 🔥
   - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more! (Eurystheus)
   - Designing a distributed game engine for an online game server 📦 (Crusaders)
-  - Designing a free-to-play tactical role-playing video game in the uLua engine 🫎 (Animal Warfare)
+  - Designing a free-to-play tactical role-playing video game in the **uLua** engine 🫎 (Animal Warfare)
   - Making a Discord Bot to automate reminders for an event scheduler ⏰ (Excalibur)
   - A lightweight art portfolio website with **React** and **JavaScript** 🎨 (Minerva)
 - 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo)
