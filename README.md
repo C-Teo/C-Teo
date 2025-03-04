@@ -17,5 +17,5 @@
   - Designing a free-to-play tactical role-playing video game in **Lua** 🫎 (Animal Warfare)
   - Making a Discord Bot to automate reminders for an event scheduler ⏰ (Excalibur)
   - A lightweight art portfolio website with **React** and **JavaScript** 🎨 (Minerva)
-- 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo)
+- 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo) (I'm building something cool for this ... so it'll take a bit!)
 - 💛 I'm also active on **Leetcode**!
