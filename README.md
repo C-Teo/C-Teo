@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on a...
   - Interpreter written in **Rust** ®️ (Fenrir)
   - Natural Language processing and Neural Networks in **Python** 🐍 (Mercury)
-  - Studies in Traditional Machine Learning (**Scikit**) 🤖 and Deep Learning (**PyTorch**) 🔥
   - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more! (Eurystheus)
   - Designing a distributed game manager for an online tournament server 📦 (Crusaders)
   - Designing a free-to-play tactical role-playing video game in **Lua** 🫎 (Animal Warfare)
