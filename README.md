@@ -7,7 +7,6 @@
   <a href="https://stackoverflow.com/users/28913972/ahria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahria" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning about **Compilers and Distributed Systems!**
 - 🔭 I’m currently working on a...
   - Interpreter written in **Rust** ®️ (Fenrir)
   - Natural Language processing and Neural Networks in **Python** 🐍 (Mercury)
@@ -17,4 +16,17 @@
   - Making a Discord Bot to automate reminders for an event scheduler ⏰ (Excalibur)
   - A lightweight art portfolio website with **React** and **JavaScript** 🎨 (Minerva)
 - 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo) (I'm building something cool for this ... so it'll take a bit!)
-- 💛 I'm also active on **Leetcode**!
+
+<h2 align="center">Programming Languages</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,elixir,ruby,lua,rust,cpp,c,js,ts,go,bash,css,html"/>
+  </a>
+</p>
+
+<h2 align="center">Skills & Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,django,elasticsearch,git,kubernetes,linux,nextjs,react,nodejs,postgres,postman,rails,redis,sklearn"/>
+  </a>
+</p>
