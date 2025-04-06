@@ -27,6 +27,6 @@
 <h2 align="center">Frameworks & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,django,elasticsearch,git,kubernetes,linux,nextjs,react,nodejs,postgres,postman,rails,redis,sklearn"/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,django,elasticsearch,git,kubernetes,linux,nextjs,react,nodejs,postgres,postman,rails,redis,tensorflow"/>
   </a>
 </p>
