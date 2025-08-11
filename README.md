@@ -8,12 +8,11 @@
 </p>
 
 - 🔭 I’m currently working on a...
-  - Interpreter written in **Rust** ®️ (Fenrir)
-  - Natural Language processing and Neural Networks in **Python** 🐍 (Mercury)
-  - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more! (Eurystheus)
-  - Designing a free-to-play tactical role-playing video game in **Lua** 🫎 (Animal Warfare)
-  - Making a Discord Bot to automate reminders for an event scheduler ⏰ (Excalibur)
-  - A lightweight art portfolio website with **React** and **JavaScript** 🎨 (Minerva)
+  - Interpreter written in **C++**
+  - Raytracer written in **C++**
+  - A Fullstack application for a Streamer tournament ⚔️ with **React**, **Express**, **TypeScript**, and more! 
+  - Designing a free-to-play tactical role-playing video game in **Lua** 🫎
+  - A lightweight art portfolio website with **React** and **JavaScript** 🎨
 - 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo) (I'm building something cool for this ... so it'll take a bit!)
 
 <h2 align="center">Programming Languages</h2>
