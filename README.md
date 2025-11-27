@@ -29,42 +29,13 @@ implementing a toy interpreter with JavaCC parsing, JJTree ASTs, and a visitor-p
 <h2 align="center">Programming Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=
-      c,
-      cpp,
-      cs,
-      rust,
-      zig,
-      py,
-      java,
-      elixir,
-      ruby,
-      lua,
-      js,
-      ts,
-      bash,
-      "/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,zig,py,java,elixir,ruby,lua,js,ts,bash"/>
   </a>
 </p>
 
 <h2 align="center">Frameworks & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=
-      aws,
-      docker,
-      django,
-      elasticsearch,
-      git,
-      kubernetes,
-      linux,
-      nextjs,
-      react,
-      nodejs,
-      postgres,
-      postman,
-      rails,
-      redis,
-      tensorflow"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,elasticsearch,git,kubernetes,linux,nextjs,react,postgres,redis,tensorflow,blender,visualstudio,unity,unreal"/>
   </a>
 </p>
