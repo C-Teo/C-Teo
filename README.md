@@ -24,7 +24,7 @@ via load, stress, and concurrency testing with 125 users and extensive JVM Tunin
 Developed ArrayFlow, a domain-specific language (DSL) for vector and matrix computations, written in Java 
 implementing a toy interpreter with JavaCC parsing, JJTree ASTs, and a visitor-pattern evaluation engine. 
 
-🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo) (I'm building something cool for this ... so it'll take a bit!)
+🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo) (I'm building something [cool](https://threejs.org/) for this ... so it'll take a bit!)
 
 <h2 align="center">Programming Languages</h2>
 <p align="center">
