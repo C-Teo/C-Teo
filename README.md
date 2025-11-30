@@ -39,3 +39,7 @@ implementing a toy interpreter with JavaCC parsing, JJTree ASTs, and a visitor-p
 <img src="https://skillicons.dev/icons?i=aws,docker,elasticsearch,git,kubernetes,linux,nextjs,react,postgres,redis,tensorflow,blender,visualstudio,unity,unreal"/>
   </a>
 </p>
+
+---
+
+<p align="center"><em>“Why worship legends when you know that you can join them.”</em><br>— <strong>Lil Nas X</strong></p>
