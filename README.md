@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🦆, I'm Teodor Cirstoiu</h1>
-<h3 align="center">A passionate Graphics & Games Developer from Canada</h3>
+<h3 align="center">A passionate Graphics & Deep Learning Researcher from Canada</h3>
 
 <p align="center">
   std::cout <<
@@ -17,22 +17,7 @@
     << std::endl;
 </p>
 
-Some of my past projects...
-
-**OpenGL Real-time 3D Graphics Simulation**
-
-Built a C++ OpenGL application with primitive transformations, animations, Vertex and Fragment shaders, VAO, 
-VBOs, VRAM, texture mapping, audio manipulation, lighting, camera controls, collisions, and mesh rendering.
-
-**Freelance Game Development**
-
-Led a team of 5 to develop 3 high-performance Java games, optimizing runtime under a 4 GB memory constraint 
-via load, stress, and concurrency testing with 125 users and extensive JVM Tuning and Memory Profiling. 
-
-**ArrayFlow Interpreted Language**
-
-Developed ArrayFlow, a domain-specific language (DSL) for vector and matrix computations, written in Java 
-implementing a toy interpreter with JavaCC parsing, JJTree ASTs, and a visitor-pattern evaluation engine. 
+In the era of artificial intelligence and ever-increasing graphical compute, we’ve largely taken the approach of pushing our architectures further to do more. However, one aspect of computer graphics that I have always loved is optimization theory. Rather than researching ways to do more with more, I’m personally interested in how we can do “more with less,” especially when it comes to optimizing rendering pipelines through innovations in deep learning and computer vision. Computer simulations and games have reached incredible levels of visual fidelity; however, I want to make these experiences accessible to older computers as well and help democratize access to high-compute graphics.
 
 🎉 All of my projects will be available at [WIP Portfolio](https://github.com/C-Teo) (I'm building something [cool](https://threejs.org/) for this ... so it'll take a bit!)
 
