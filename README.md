@@ -55,4 +55,4 @@
 
 ---
 
-<p align="center"><em>“one must imagine Sisyphus happy”</em><br>— <strong>Albert Camus</strong></p>
+<p align="center"><em>“The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.”</em><br>— <strong>Albert Camus</strong></p>
