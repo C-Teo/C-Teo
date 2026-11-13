@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/icons/c.svg" alt="C" height="48" />
+  <img src="assets/icons/C_Programming_Language.svg" alt="C" height="48" />
   &nbsp;&nbsp;
   <img src="assets/icons/cplusplus.svg" alt="C++" height="48" />
   &nbsp;&nbsp;
